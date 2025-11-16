@@ -20,7 +20,7 @@ This project analyzes real reviews from Bumble, Hinge, and Tinder, using a fully
 
 This project uses a full AWS data engineering pipeline:
 
-Raw Data → Amazon Textract → CSV Processing → S3 Storage → Glue Crawler → Athena Queries → Analysis/Visualization
+Raw Data → Amazon Textract → CSV Processing → S3 Storage → Glue Crawler → Athena Queries → Analysis
 
 AWS Services Used:
 
