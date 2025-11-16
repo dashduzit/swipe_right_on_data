@@ -6,6 +6,7 @@ This project combines AWS cloud pipelines, analytical review data, and pyscholog
 ## ⭐️ Project Overview
 
 Online dating apps dominate modern dating, but behind the convenience are deeper issues:
+
 	•	Fake profiles + catfishing
 	•	Algorithmic bias
 	•	Dating fatigue
