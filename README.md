@@ -28,6 +28,7 @@ AWS Services Used:
 	•	AWS Glue – automated schema detection + cataloging
 	•	Athena – SQL querying across all datasets
 	•	CSV → Parquet conversion (optional step)
+ • b
 
 Three Independent Pipelines (One for Each Dating App):
 
