@@ -7,7 +7,7 @@ This project combines AWS cloud pipelines, analytical review data, and pyscholog
 
 Online dating apps dominate modern dating, but behind the convenience are deeper issues:
 
-	•	Fake profiles + catfishing
+	•	Fake profiles + catfishing/bots
 	•	Algorithmic bias
 	•	Dating fatigue
 	•	Dopamine-driven reward cycles
@@ -27,13 +27,13 @@ AWS Services Used:
 	•	Amazon S3 – structured data storage
 	•	AWS Glue – automated schema detection + cataloging
 	•	Athena – SQL querying across all datasets
-	•	CSV → Parquet conversion (optional step)
+	•	CSV → Parquet conversion
 
 Three Independent Pipelines (One for Each Dating App):
 
-	•	Pipeline A: Bumble (Complete)
-	•	Pipeline B: Hinge (Complete)
-	•	Pipeline C: Tinder (Complete)
+	•	Pipeline A: Bumble 
+	•	Pipeline B: Hinge 
+	•	Pipeline C: Tinder 
 
 Each pipeline includes:
 
