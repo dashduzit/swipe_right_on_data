@@ -43,6 +43,13 @@ Each pipeline includes:
 	•	Athena table for querying
 	•	Sample SQL insights
 
+## Methodology 
+
+
+## Proposed Solution 
+
+New dating app that uses job application stylings to find love. Pictures will not be used to avoid catfishing and superficial values that other dating apps tend to use. 
+
 
 
 
