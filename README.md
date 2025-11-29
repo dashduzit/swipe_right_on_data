@@ -5,7 +5,9 @@ This project combines AWS cloud pipelines, analytical review data, and pyscholog
 
 ## Problem Statement
 
-Modern dating apps generate millions of user interactions daily, yet persistent user dissatisfaction continues across platforms such as Tinder, Bumble, and Hinge. 
+Modern dating apps generate millions of user interactions daily, yet persistent user dissatisfaction continues across platforms such as Tinder, Bumble, and Hinge. Despite algorithmic matching, users repeatedly report issues related to fake profiles, safety risks, inconsistent matching quality, aggressive monetization, and unexplained account bans. These complaints suggest that the problem extends beyond individual user experiences and reflects deeper failures in platform governance, trust, and data transparency.
+
+This project investigates user-generated review data to identify recurring behavioral, psychological, and systemic patterns driving dissatisfaction. By leveraging a full AWS cloud-based data pipeline, this analysis seeks to transform unstructured review data into actionable insights that explain how dating app design, moderation practices, and monetization strategies influence user trust, emotional well-being, and platform credibility.
 
 
 
