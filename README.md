@@ -3,7 +3,8 @@ A data engineering + behavioral analysis of modern dating apps
 
 This project combines AWS cloud pipelines, analytical review data, and pyschological research to reveal the emotional patterns, attachment dynamics, algorithmic bias, and burnout behind today's "swipe culture".
 
-## Problem Statement 
+## Problem Statement
+
 
 
 ## ⭐️ Project Overview
@@ -45,6 +46,38 @@ Each pipeline includes:
 - Glue crawler + database mapping
 - Athena table for querying
 - Sample SQL insights
+
+## Data Volumes & Scale Section 
+
+- 63 OCR-processed raw screenshots
+- 164,000+ unified review records after joining
+- 3 dating platforms integrated (Tinder, Bumble, Hinge)
+- Structured into AWS Glue + Athena for scalable querying
+
+## Core SQL Operations 
+
+- Schema validation using Glue generated tables
+- Cross-platform JOINs across all three datasets
+- Count-based data volume verification
+- Aggregation of star ratings and sentiment indicators
+- Platform-level comparative analysis
+
+## Key Findings
+
+- Over 50% of reviews across platforms were rated 1 star
+- Scams, bots, and fake profiles were the most recurring complaint
+- Users reported significantly higher burnout and emotional fatigue than non-users
+- Monetization pressure strongly correlated with low star ratings
+- Platform governance failure (bans, moderation, transparency) were repeatedly cited
+
+## How to Reproduce 
+
+1. Upload raw CSV or OCR output files to Amazon S3
+2. Configure AWS Glue Crawlers for schema detection
+3. Create Athena tables from Glue Data Catalog
+4. Execute SQL queries in the 'sql/' directory
+5. Run the Jupyter notebook in '/notebooks' for visualization 
+
 
 ## Methodology 
 
