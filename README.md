@@ -88,21 +88,22 @@ This project proposes RealMatch, a redesigned dating platform built directly fro
 
 Key Design Principles
 
-	•	Governance-First Architecture: Platform rules, enforcement logic, and moderation transparency are treated as primary system requirements—not afterthoughts.
-	•	Trust Before Matching: All users undergo mandatory identity verification using multi-factor authentication to eliminate fake profiles, bots, and catfishing.
-	•	Intentional Matching Model: Matches follow a job-application-style screening process that encourages purposeful selection and reduces impulsive swiping behavior.
-	•	Privacy-First Communication: Secure, encrypted messaging and controlled media sharing protect users from exploitation, harassment, and content misuse.
-	•	Transparent Monetization: Flat subscription pricing replaces aggressive paywalls and algorithmic manipulation tied to premium upgrades.
-	•	Psychological Harm Reduction: Platform design explicitly minimizes burnout, compulsive use, and dopamine-driven engagement cycles.
+- Governance-First Architecture: Platform rules, enforcement logic, and moderation transparency are treated as primary system requirements—not afterthoughts. 
+- Trust Before Matching: All users undergo mandatory identity verification using multi-factor authentication to eliminate fake profiles, bots, and catfishing.
+- Intentional Matching Model: Matches follow a job-application-style screening process that encourages purposeful selection and reduces impulsive swiping behavior.
+- Privacy-First Communication: Secure, encrypted messaging and controlled media sharing protect users from exploitation, harassment, and content misuse.
+- Transparent Monetization: Flat subscription pricing replaces aggressive paywalls and algorithmic manipulation tied to premium upgrades.
+- Psychological Harm Reduction: Platform design explicitly minimizes burnout, compulsive use, and dopamine-driven engagement cycles.
 
 Data-Driven Justification
 
 Every feature in RealMatch directly maps to failures observed in the review data:
-	•	Verification → addresses fraud, scams, and impersonation
-	•	Governance transparency → addresses unexplained bans and moderation abuse
-	•	Monetization reform → addresses paywall exploitation
-	•	Secure messaging → addresses harassment and privacy violations
-	•	Intentional matching → addresses burnout and emotional fatigue
+
+- Verification → addresses fraud, scams, and impersonation
+- Governance transparency → addresses unexplained bans and moderation abuse
+- Monetization reform → addresses paywall exploitation
+- Secure messaging → addresses harassment and privacy violations
+- Intentional matching → addresses burnout and emotional fatigue
 
 Outcome
 
