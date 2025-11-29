@@ -1,15 +1,11 @@
 ## ✅ Swipe Right On Data
 A data engineering + behavioral analysis of modern dating apps
-
 This project combines AWS cloud pipelines, analytical review data, and pyschological research to reveal the emotional patterns, attachment dynamics, algorithmic bias, and burnout behind today's "swipe culture".
 
 ## 📌 Problem Statement
 
 Modern dating apps generate millions of user interactions daily, yet persistent user dissatisfaction continues across platforms such as Tinder, Bumble, and Hinge. Despite algorithmic matching, users repeatedly report issues related to fake profiles, safety risks, inconsistent matching quality, aggressive monetization, and unexplained account bans. These complaints suggest that the problem extends beyond individual user experiences and reflects deeper failures in platform governance, trust, and data transparency.
-
 This project investigates user-generated review data to identify recurring behavioral, psychological, and systemic patterns driving dissatisfaction. By leveraging a full AWS cloud-based data pipeline, this analysis seeks to transform unstructured review data into actionable insights that explain how dating app design, moderation practices, and monetization strategies influence user trust, emotional well-being, and platform credibility.
-
-
 
 ## ⭐️ Project Overview
 
@@ -109,6 +105,11 @@ Outcome
 
 RealMatch represents a shift from engagement-driven dating systems to accountability-driven relationship platforms, demonstrating how data engineering and behavioral analysis can inform ethical platform design and restore trust in digital dating ecosystems.
 
+## Product Prototype (Figma)
+
+The RealMatch interface was designed based directly on behavioral and governance failure identified in the data 
+View the interactive Figma prototype:
+https://www.figma.com/design/jgs9WRLIfCjAirgZASRbyn/RealMatch-Prototype?node-id=3-447&t=Eh8Pmge4wwPr8vK9-1
 
 
 
