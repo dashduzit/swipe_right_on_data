@@ -87,6 +87,7 @@ Each pipeline includes:
 This project proposes RealMatch, a redesigned dating platform built directly from the behavioral, psychological, and governance failures identified in user review data across Tinder, Bumble, and Hinge. Rather than optimizing for swipes and engagement addiction, RealMatch prioritizes trust, accountability, and user well-being as core system design principles.
 
 Key Design Principles
+
 	•	Governance-First Architecture: Platform rules, enforcement logic, and moderation transparency are treated as primary system requirements—not afterthoughts.
 	•	Trust Before Matching: All users undergo mandatory identity verification using multi-factor authentication to eliminate fake profiles, bots, and catfishing.
 	•	Intentional Matching Model: Matches follow a job-application-style screening process that encourages purposeful selection and reduces impulsive swiping behavior.
