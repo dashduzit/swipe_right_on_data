@@ -5,6 +5,8 @@ This project combines AWS cloud pipelines, analytical review data, and pyscholog
 
 ## Problem Statement
 
+Modern dating apps generate millions of user interactions daily, yet persistent user dissatisfaction continues across platforms such as Tinder, Bumble, and Hinge. 
+
 
 
 ## ⭐️ Project Overview
