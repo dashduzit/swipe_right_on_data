@@ -3,7 +3,7 @@ A data engineering + behavioral analysis of modern dating apps
 
 This project combines AWS cloud pipelines, analytical review data, and pyschological research to reveal the emotional patterns, attachment dynamics, algorithmic bias, and burnout behind today's "swipe culture".
 
-## Problem Statement
+## 📌 Problem Statement
 
 Modern dating apps generate millions of user interactions daily, yet persistent user dissatisfaction continues across platforms such as Tinder, Bumble, and Hinge. Despite algorithmic matching, users repeatedly report issues related to fake profiles, safety risks, inconsistent matching quality, aggressive monetization, and unexplained account bans. These complaints suggest that the problem extends beyond individual user experiences and reflects deeper failures in platform governance, trust, and data transparency.
 
@@ -51,14 +51,14 @@ Each pipeline includes:
 - Athena table for querying
 - Sample SQL insights
 
-## Data Volumes & Scale Section 
+## 📊 Data Volumes & Scale Section 
 
 - 63 OCR-processed raw screenshots
 - 164,000+ unified review records after joining
 - 3 dating platforms integrated (Tinder, Bumble, Hinge)
 - Structured into AWS Glue + Athena for scalable querying
 
-## Core SQL Operations 
+## ⚙️ Core SQL Operations 
 
 - Schema validation using Glue generated tables
 - Cross-platform JOINs across all three datasets
@@ -66,7 +66,7 @@ Each pipeline includes:
 - Aggregation of star ratings and sentiment indicators
 - Platform-level comparative analysis
 
-## Key Findings
+## 🔑 Key Findings
 
 - Over 50% of reviews across platforms were rated 1 star
 - Scams, bots, and fake profiles were the most recurring complaint
@@ -74,7 +74,7 @@ Each pipeline includes:
 - Monetization pressure strongly correlated with low star ratings
 - Platform governance failure (bans, moderation, transparency) were repeatedly cited
 
-## How to Reproduce 
+## 🌐 How to Reproduce 
 
 1. Upload raw CSV or OCR output files to Amazon S3
 2. Configure AWS Glue Crawlers for schema detection
@@ -82,11 +82,7 @@ Each pipeline includes:
 4. Execute SQL queries in the 'sql/' directory
 5. Run the Jupyter notebook in '/notebooks' for visualization 
 
-
-## Methodology 
-
-
-## Proposed Solution 
+## 💡 Proposed Solution 
 
 New dating app that uses job application stylings to find love. Pictures will not be used to avoid catfishing and superficial values that other dating apps tend to use. 
 
