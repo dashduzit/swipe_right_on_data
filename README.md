@@ -76,7 +76,10 @@ Each pipeline includes:
 2. Configure AWS Glue Crawlers for schema detection
 3. Create Athena tables from Glue Data Catalog
 4. Execute SQL queries in the 'sql/' directory
-5. Run the Jupyter notebook in '/notebooks' for visualization 
+5. Run the Jupyter notebook in '/notebooks' for visualization
+6. Import the CSV outputs into PowerBI Desktop
+7. Create BI dashboards and visualizations in PowerBI
+8. Run the Jupyter notebook for statisical validation and exploratory visualization 
 
 ## 💡 Proposed Solution 
 
