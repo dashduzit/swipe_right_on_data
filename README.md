@@ -108,8 +108,8 @@ RealMatch represents a shift from engagement-driven dating systems to accountabi
 ## Product Prototype (Figma)
 
 The RealMatch interface was designed based directly on behavioral and governance failure identified in the data 
-View the interactive Figma prototype:
-https://www.figma.com/design/jgs9WRLIfCjAirgZASRbyn/RealMatch-Prototype?node-id=3-447&t=Eh8Pmge4wwPr8vK9-1
+
+View the interactive Figma prototype: https://www.figma.com/design/jgs9WRLIfCjAirgZASRbyn/RealMatch-Prototype?node-id=3-447&t=Eh8Pmge4wwPr8vK9-1
 
 
 
