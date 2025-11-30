@@ -105,7 +105,7 @@ Outcome
 
 RealMatch represents a shift from engagement-driven dating systems to accountability-driven relationship platforms, demonstrating how data engineering and behavioral analysis can inform ethical platform design and restore trust in digital dating ecosystems.
 
-## Product Prototype (Figma)
+## 🧩 Product Prototype (Figma)
 
 The RealMatch interface was designed based directly on behavioral and governance failure identified in the data 
 
